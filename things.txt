@@ -1,0 +1,13 @@
+in the command pallet you do:
+Python: Create Enviorment
+
+something that came with Python that creates an envronment in a directory.
+I forget what the -m was for, venv is the tokol and env is the name of
+the folder all the enviroment stuff will be put in. 
+-m venv env 
+
+#This is supposed to start the env. It is not throwing an error. but I am not sure its working.
+env\Scripts\activate.bat
+So the reason it wasnt working was becuase vs code takes care of all of
+that for me when you come in to the folder its this env
+
