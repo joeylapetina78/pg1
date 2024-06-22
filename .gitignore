@@ -11,5 +11,5 @@ __pycache__/
 # Environment variables file
 .env
 
-# Ignore things_remembered.txt
+# Ignore things.txt
 things.txt
