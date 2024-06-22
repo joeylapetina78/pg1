@@ -12,4 +12,4 @@ __pycache__/
 .env
 
 # Ignore things_remembered.txt
-things_remembered.txt
+things.txt
